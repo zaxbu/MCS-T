@@ -1,7 +1,9 @@
 # Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase (MCS-T) 
 Official Pytorch implementation of the paper "Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase" 
 
-[Paper](https://arxiv.org/abs/2303.01685) ｜ Video (coming soon).
+![teaser](figures/arch.png)
+
+[Paper](https://arxiv.org/abs/2303.01685) ｜ Video (coming soon)
 
 ## Updates
 **06/MAR/23** - Project initialized.
